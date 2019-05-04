@@ -1,2 +1,1 @@
-# Fidd-The-Number
-Find The Number with C
+this project finds how many of which letteris in a given txt file
